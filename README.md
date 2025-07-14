@@ -1,16 +1,27 @@
-# inspire_me
+I have created the app as per the instructions. The app is connected to firebase for authentication and data storage, the quotes are fetched from an API: https://api-ninjas.com. 
 
-A new Flutter project.
+Key Features
+- Home Screen:
+Fetches motivational quotes from an API and displays them in a clean, elegant UI.
+- Quote Favourites:
+Users can mark quotes as favourites. Favourite quotes are stored in Firestore and synced in real-time using StreamBuilder.
+- Dark Mode Toggle:
+Users can switch between light and dark themes with a single toggle. I used shared preferences to store theme settings. 
+ -Login/SignUp:
+User authentication using Firebase Auth, with real-time sign-up and login support.
+- Quote Sharing:
+Easily share quotes via social apps using the Share Plus package.
+- Responsive UI:
+Layouts are mobile-responsive using flutter_screenutil.
+- Bottom Navigation:
+Clean bottom navigation to switch between Home and Favourites.
+- Clean routing
 
-## Getting Started
+Bonus features added: 
+- Quotes from public api
+- Share Plus package to share quotes.
+- Hero animation
+- Provider for state management
+- Transition animation between themes and screens
+  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
