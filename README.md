@@ -15,7 +15,7 @@ Easily share quotes via social apps using the Share Plus package.
 Layouts are mobile-responsive using flutter_screenutil.
 - Bottom Navigation:
 Clean bottom navigation to switch between Home and Favourites.
-- Clean routing<img width="1080" height="2400" alt="Screenshot_1752484161" src="https://github.com/user-attachments/assets/89bc3f72-eaac-469a-bce7-258e11531831" />
+- Clean routing
 
 
 Bonus features added: 
@@ -25,6 +25,3 @@ Bonus features added:
 - Provider for state management
 - Transition animation between themes and screens
   
-<img width="1080" height="2400" alt="Screenshot_1752484195" src="https://github.com/user-attachments/assets/32b7040d-610a-4e75-a138-a7c83f9c5fae" />
-
-<img width="1080" height="2400" alt="Screenshot_1752484234" src="https://github.com/user-attachments/assets/726d2dbb-0756-420b-b636-4b365f9398fe" />
